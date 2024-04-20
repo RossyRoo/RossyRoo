@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RossyRoo
-- 👀 I’m interested in collaborating
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on a topdown, cartoon RPG
+- 🌱 I’m currently learning Game Development
+- 💞️ I’m looking to collaborate on games to expand my portfolio
 - 📫 Email: rossesmusic@gmail.com
 
 <!---
