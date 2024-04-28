@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RossyRoo
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on games to expand my portfolio
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on apps and games to expand my portfolio!
 - 📫 Email: rossesmusic@gmail.com
 
 <!---
